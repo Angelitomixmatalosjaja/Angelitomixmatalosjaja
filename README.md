@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Ángel!
 
-<!--
-**Angelitomixmatalosjaja/Angelitomixmatalosjaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un **Data Analyst** apasionado por encontrar respuestas a través de los datos.  
+Me especializo en **Python, SQL, Tableau y análisis de negocio**, con experiencia en proyectos reales como pruebas A/B, dashboards interactivos y análisis de cancelación de clientes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+🎓 Egresado del bootcamp de análisis de datos en **TripleTen**  
+📊 Transformo datos en decisiones accionables  
+💡 Siempre en busca de aprender más y aportar valor a los proyectos  
+🎧 También estoy explorando mi lado creativo como DJ y emprendedor
+
+---
+
+## 🧰 Tech Stack
+
+- **Lenguajes:** Python · SQL · HTML · Markdown  
+- **Librerías:** pandas · matplotlib · seaborn · NumPy · scikit-learn  
+- **Herramientas:** Tableau · Jupyter Notebook · Git · GitHub · VS Code
+
+---
+
+## 🧪 Proyectos destacados
+
+📌 [Prueba A/B — E-commerce](https://github.com/Angelitomixmatalosjaja/prueba_test_ab)  
+> Analicé el comportamiento de usuarios en una prueba A/B para evaluar impacto en conversiones.  
+> Usé pandas, seaborn, matplotlib y Tableau para visualizar diferencias entre grupos.  
+
+## ---
+
+## 📫 Contacto
+
+📍 Guadalajara, México  
+📧 angelmercadovqz12@gmail.com  
+🔗 [LinkedIn](www.linkedin.com/in/jose-angel-mercado-vazquez)
+
+## ---
+
+⭐ Gracias por visitar mi perfil. Estoy abierto a colaborar, crecer y seguir aprendiendo.
+
