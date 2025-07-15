@@ -24,9 +24,9 @@ Me especializo en **Python, SQL, Tableau y análisis de negocio**, con experienc
 
 ## 🧪 Proyectos destacados
 
-📌 [Prueba A/B — E-commerce](https://github.com/Angelitomixmatalosjaja/prueba_test_ab)  
-> Analicé el comportamiento de usuarios en una prueba A/B para evaluar impacto en conversiones.  
-> Usé pandas, seaborn, matplotlib y Tableau para visualizar diferencias entre grupos.  
+📌 [Prueba A/B — E-commerce](https://github.com/Angelitomixmatalosjaja/prueba_test_ab) 
+📌 [Taxes_Data_Analyst](https://github.com/Angelitomixmatalosjaja/taxes_ef)
+
 
 ## ---
 
